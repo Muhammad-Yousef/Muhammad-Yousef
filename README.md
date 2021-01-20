@@ -9,11 +9,11 @@ My name is Muhammad Yousef, and I am a Data Scientist @Technic.
 
 -->
 
-- 🔭 My main research area of interest are: AI/NLP/ML and I am looking for a collaboration on AI-Related endeavors (Academic/Industrial)
+- 🔭 My main research area of interest are: AI/NLP/ML and I am continuously looking for a collaboration on AI-Related endeavors (Academic/Industrial)
 - :book: I am into Philosophy, Logic, and doing MathemaGic most of my time!
 - :computer: I’m kinda of a polyglot, I do C/C++, Java, JavaScript, Python and Dart.
 - 📫 You can reach me via **A@B** where **A = muhammad.wd** and **B = outlook.com**
-- 📄 My CV [Click Here](https://drive.google.com/file/d/1MoGdjhbGL0jcm637YUknHzHfPe22jXYA/view?usp=sharing)
+- 📄 For My CV [Click Here](https://drive.google.com/file/d/1MoGdjhbGL0jcm637YUknHzHfPe22jXYA/view?usp=sharing)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-yousef&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-yousef" /> </p>
 
