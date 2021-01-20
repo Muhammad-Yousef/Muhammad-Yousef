@@ -11,7 +11,7 @@ My name is Muhammad Yousef, and I am a Data Scientist @Technic.
 
 - 🔭 My main research area of interest are: AI/NLP/ML and I am looking for a collaboration on AI-Related endeavors (Academic/Industrial)
 - :book: I am into Philosophy, Logic, and doing MathemaGic most of my time!
-- :computer: I’m kinda of a polyglot, I do C/C++, Java and Python.
+- :computer: I’m kinda of a polyglot, I do C/C++, Java, JavaScript, Python and Dart.
 - 📫 You can reach me via **A@B** where **A = muhammad.wd** and **B = outlook.com**
 - 📄 My CV [Click Here](https://drive.google.com/file/d/1MoGdjhbGL0jcm637YUknHzHfPe22jXYA/view?usp=sharing)
 
