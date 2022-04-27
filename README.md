@@ -13,7 +13,7 @@ My name is Muhammad Yousef, and I am a Data Scientist @Technic.
 - :book: I am into Philosophy, Logic, and doing MathemaGic most of my time!
 - :computer: I’m kinda of a polyglot, I do C/C++, Java, JavaScript, Python and Dart.
 - 📫 You can reach me via **A@B** where **A = muhammad.wd** and **B = outlook.com**
-- 📄 For My CV [Click Here](https://drive.google.com/file/d/1xXuDJkvjgBY5E2EpzTijy7Qic_wTku91/view?usp=sharing)
+- 📄 For My CV [Click Here](https://drive.google.com/file/d/1-2YmU_LWvo85T4iVe2G6YVgPencdvYIv/view?usp=sharing)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-yousef&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-yousef" /> </p>
 
